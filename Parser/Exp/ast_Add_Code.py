@@ -99,6 +99,7 @@ test_code = 'hello'
 '''
     modified_code = add_logging(code)
     print(modified_code)
+    print('hello')
 
 
 if __name__ == "__main__":
